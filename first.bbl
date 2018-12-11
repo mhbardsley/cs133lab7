@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{newCipher}
+S.~G. Srikantaswamy and D.~H.~D. Phaneendra, ``Improved caesar cipher with
+  random number generation and multistage encryption,'' {\em International
+  Journal on Cryptography and Information Security}, vol.~2, no.~4, pp.~39--49,
+  2012.
+
+\bibitem{appliedCryp}
+P.~C. v. O. S. A.~V. Alfred J.~Menezes, Jonathan~Katz.
+\newblock CRC Press, 1st edition~ed., October 1996.
+
+\bibitem{unPub}
+M.~Bardsley, ``Post-quantum cryptographic responses.'' This probably won't be
+  released, February 2022.
+
+\end{thebibliography}

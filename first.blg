@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: first.aux
+The style file: ieeetr.bst
+Database file #1: bibliography.bib
+Too many commas in name 1 of "Alfred J. Menezes, Jonathan Katz, Paul C. van Oorschot, Scott A. Vanstone" for entry appliedCryp
+while executing---line 969 of file ieeetr.bst
+Warning--empty title in appliedCryp
+You've used 3 entries,
+            1876 wiz_defined-function locations,
+            499 strings with 3943 characters,
+and the built_in function-call counts, 564 in all, are:
+= -- 56
+> -- 16
+< -- 0
++ -- 7
+- -- 4
+* -- 39
+:= -- 92
+add.period$ -- 4
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 28
+empty$ -- 56
+format.name$ -- 4
+if$ -- 131
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 13
+num.names$ -- 3
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 14
+stack$ -- 0
+substring$ -- 24
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 6
+width$ -- 4
+write$ -- 30
+(There was 1 error message)
